@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Harsh Soni</h1>
 <h3 align="center">Welcome to my world of coding and creativity! I am a passionate and dedicated full-stack developer, with a knack for turning visions into reality. With a keen eye for design and a fascination for problem-solving, I thoroughly enjoy crafting user-friendly and visually captivating applications. From the back-end intricacies to the front-end aesthetics, I thrive in the realm of web development. With every line of code, I am constantly honing my skills to create seamless experiences for users while keeping up with the ever-evolving digital landscape. Join me on this exciting journey as we bring ideas to life, one pixel at a time!'</h3>
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techninja-01&label=Profile%20views&color=0e75b6&style=flat" alt="techninja-01" /> </p>
 
 <h3 align="left">Connect with me:</h3>
